@@ -1,5 +1,5 @@
 ---
-title: '"Caso 29. Intervalos de Confianza para media poblacional"'
+title: Caso 29. Intervalos de Confianza para media poblacional
 author: "ANGELICA ITZEL LOPEZ DELGADO"
 date: '2022-06-08'
 output: html_document:
